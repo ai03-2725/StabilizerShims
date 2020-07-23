@@ -1,4 +1,5 @@
 # StabilizerShims
+![Render](https://github.com/ai03-2725/StabilizerShims/blob/master/screenshot.jpg?raw=true)
 These shims allow for firm PCB-mount Cherry MX stabilizer seating on thinner-than-spec PCBs.  
 
 ### Production info
@@ -7,4 +8,3 @@ These shims allow for firm PCB-mount Cherry MX stabilizer seating on thinner-tha
 ### Compatibility
 * Cherry clip-in and GMK screw-in stabilizers benefit noticeably 
 * ePBT, Durock, Everglide, C3 stabilizers may or may not fit depending on the main PCB
-* 
