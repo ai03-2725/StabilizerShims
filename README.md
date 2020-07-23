@@ -4,6 +4,7 @@ These shims allow for firm PCB-mount Cherry MX stabilizer seating on thinner-tha
 
 ### Production info
 * Thickness: 0.4 or 0.6mm for 1.2mm main PCB
+* V-Cut specified on Margin layer
 
 ### Compatibility
 * Cherry clip-in and GMK screw-in stabilizers benefit noticeably 
