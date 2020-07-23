@@ -1,6 +1,6 @@
 # StabilizerShims
 ![Render](https://github.com/ai03-2725/StabilizerShims/blob/master/screenshot.jpg?raw=true)
-These shims allow for firm PCB-mount Cherry MX stabilizer seating on thinner-than-spec PCBs.  
+These shims allow for firmly seating PCB-mount Cherry MX stabilizers on thinner-than-spec PCBs.  
 
 ### Production info
 * Thickness: 0.4 or 0.6mm for 1.2mm main PCB
